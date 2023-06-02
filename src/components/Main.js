@@ -14,7 +14,7 @@ class Main extends Component {
               <h1>Olá, sou</h1>
               <h1 id='name'>Gustavo Oliveira.</h1>
             </div>
-            <h2>Desenvolvedor Full Stack.</h2>
+            <h2>Desenvolvedor Front-end.</h2>
             <p>
               <span class="btn btn-outline-secondary">Skills</span>
               <span class="btn btn-outline-secondary">Projetos</span>

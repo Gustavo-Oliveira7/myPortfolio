@@ -1,6 +1,7 @@
 
 body {
-  background-color: white;
+  background-color:#FF00FF;
+  /* background-color: white; */
 }
 
 a {
@@ -39,4 +40,8 @@ a:hover {
 #name {
   margin-left: 10px;
   color: grey;
+}
+
+.skills {
+  background-color: grey;
 }
